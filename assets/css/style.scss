@@ -1,0 +1,19 @@
+@import 'bourbon/bourbon';
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333f50;
+
+.profile-photo{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 5px solid $primary-color;
+}
+
+.section-title {
+    border-bottom: 5px solid $primary-color;
+}
+body {
+    @include  linear-gradient(red, purple);
+}
