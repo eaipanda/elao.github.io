@@ -15,5 +15,5 @@ $primary-color: #333f50;
     border-bottom: 5px solid $primary-color;
 }
 body {
-    @include  linear-gradient(red, purple);
+    font-family: $font-stack-helvetica;
 }
