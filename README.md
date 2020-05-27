@@ -1,3 +1,3 @@
 # elao.github.io
 Single Page Responsive Portfolio
-# https://github.com/eaipanda/portfolio
+# https://eaipanda.github.io/portfolio/
