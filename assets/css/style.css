@@ -10,4 +10,8 @@
 .section-title {
   border-bottom: 5px solid #333f50;
 }
+
+body {
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
 /*# sourceMappingURL=style.css.map */
